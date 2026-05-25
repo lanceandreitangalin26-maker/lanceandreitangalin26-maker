@@ -36,6 +36,3 @@ I'm **Lance Andrei M. Tangalin**
     <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" alt="Viber" />
   </a>
 </p>
-
----
-
